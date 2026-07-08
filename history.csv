@@ -1,0 +1,8 @@
+booking_id,date,name,phone,service,slot,price,status
+1,2026-07-06,megat,14332,Fade,7/6 | 4pm,25,Completed
+3,2026-07-06,testing,11526622,Smart Cut,7/6 | 6pm,15,Completed
+4,2026-07-08,megat,143324491,Smart Cut,7/6 | 2pm,15,Cancelled
+2,2026-07-06,haris,1234,Fade,7/6 | 5pm,25,Cancelled
+6,2026-07-08,meme,3322,Smart Cut,7/6 | 2pm,15,Cancelled
+5,2026-07-08,megat,52562626,Smart Cut,2026-07-11 | 08:30,15,Cancelled
+7,2026-07-08,sa,ssw,Smart Cut,2026-07-11 | 08:30,15,Completed
